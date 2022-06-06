@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgpEncrypt.Function", "PgpEncrypt.Function\PgpEncrypt.Function.csproj", "{648B0B49-26E3-4959-9196-4430C30D2979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgpEncrypt.File", "PgpEncrypt.File\PgpEncrypt.File.csproj", "{BDFD1F81-799B-475B-A5C2-BDEF99DFD502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{648B0B49-26E3-4959-9196-4430C30D2979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648B0B49-26E3-4959-9196-4430C30D2979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648B0B49-26E3-4959-9196-4430C30D2979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648B0B49-26E3-4959-9196-4430C30D2979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFD1F81-799B-475B-A5C2-BDEF99DFD502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFD1F81-799B-475B-A5C2-BDEF99DFD502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFD1F81-799B-475B-A5C2-BDEF99DFD502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFD1F81-799B-475B-A5C2-BDEF99DFD502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D514FE2B-469C-47CE-86FE-D9ACD69D3F4E}
+	EndGlobalSection
+EndGlobal
